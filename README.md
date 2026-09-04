@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="hands.jpg" alt="Banner" width="100%" />
+<img src="jellyfish.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I'm Lara, a Fullstack Developer passionate about building clean, functional and meaningful web experiences. I enjoy working across both frontend and backend, exploring new technologies and continuously improving my skills through real-world projects.

@@ -52,9 +52,11 @@
     alt="Lara Andrade's GitHub Activity"
   />
 </p>
-<!-- <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=laraandradeDev&theme=nightowl&radius=10" alt="laraandradeDev's Activity Graph" />
-</p> -->
+<p align="center">
+  <a href="https://github.com/laraandradeDev">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laraandradeDev&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
+  </a>
+</p>
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
@@ -100,13 +102,9 @@
 
 </p>
 
-<p align="center">
-  <a href="https://github.com/laraandradeDev">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=laraandradeDev&langs_count=8&layout=compact&theme=nightowl&border_radius=10" alt="Top Languages" />
-  </a>
-</p>
 
-![Top language](https://stats.pphat.top/languages?username=laraandradeDev)
+
+
 <br/>
 
 ## 🔗 Connect with Me

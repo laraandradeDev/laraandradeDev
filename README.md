@@ -7,7 +7,7 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/74038190/213910845-af37a709-8995-40d6-be59-724526e3c3d7.gif" alt="Banner" width="100%" />
+<img src="hands.jpg" alt="Banner" width="100%" />
 
 ## 📌 About Me
 - 👋 Hi, I'm Lara, a Fullstack Developer passionate about building clean, functional and meaningful web experiences. I enjoy working across both frontend and backend, exploring new technologies and continuously improving my skills through real-world projects.

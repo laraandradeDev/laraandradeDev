@@ -47,8 +47,14 @@
   <img src="https://trophy.ryglcloud.net/?username=laraandradeDev&theme=nightowl&no-frame=true&no-bg=true&margin-w=4&cache_seconds=86400" alt="Lara Andrade's GitHub Trophies" />
 </p>
 <p align="center">
-  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=laraandradeDev&theme=nightowl&radius=10" alt="laraandradeDev's Activity Graph" />
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=laraandradeDev&theme=tokyonight"
+    alt="Lara Andrade's GitHub Activity"
+  />
 </p>
+<!-- <p align="center">
+  <img height="280em" src="https://github-readme-activity-graph.vercel.app/graph?username=laraandradeDev&theme=nightowl&radius=10" alt="laraandradeDev's Activity Graph" />
+</p> -->
 <div align="center">
   <img src="profile-3d-city.svg" alt="3D City" width="100%" />
 </div>
